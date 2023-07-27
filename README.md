@@ -10,38 +10,38 @@ The analysis was performed using Python programming language with popular data a
 ## Files
 The repository contains the following files:
 
-### data_analysis_report.ipynb: This Jupyter Notebook file contains the Python code for the data analysis. It includes the data cleaning, exploration, visualization, and conclusions.
+> 1. data_analysis_report.ipynb: This Jupyter Notebook file contains the Python code for the data analysis. It includes the data cleaning, exploration, visualization, and conclusions.
 
-### data_clean.csv: This is a CSV file containing the cleaned version of the original Twitter dataset used in the analysis.
+> 2. data_clean.csv: This is a CSV file containing the cleaned version of the original Twitter dataset used in the analysis.
 
-### tweet_image_predictions.tsv: This is a TSV file containing image predictions for dog breeds that were used in the analysis.
+> 3. tweet_image_predictions.tsv: This is a TSV file containing image predictions for dog breeds that were used in the analysis.
 
-### README.md (this file): A markdown file providing an overview of the data analysis report.
+> 4. README.md (this file): A markdown file providing an overview of the data analysis report.
 
 ## Research Questions and Observations
 The data analysis report addresses the following research questions and provides the corresponding observations:
 
-### Which breed has more engagement? The analysis found that the Saluki breed received the highest average favorites and retweets.
+> 1. Which breed has more engagement? The analysis found that the Saluki breed received the highest average favorites and retweets.
 
-### Does the time of the tweet affect the level of interactions? Tweets posted within the hour of 6 am received the highest average favorites and retweets, while tweets posted within the hour of 1 pm received the lowest average favorites and retweets.
+> 2. Does the time of the tweet affect the level of interactions? Tweets posted within the hour of 6 am received the highest average favorites and retweets, while tweets posted within the hour of 1 pm received the lowest average favorites and retweets.
 
-### Is there a correlation between dog stage and engagement? The analysis showed that the "floofer" and "puppo" dog stages received the highest average ratings.
+> 3. Is there a correlation between dog stage and engagement? The analysis showed that the "floofer" and "puppo" dog stages received the highest average ratings.
 
 ## Limitations
-The data analysis report has the following limitations:
+> 1. The data analysis report has the following limitations:
 
-The analysis relies on a specific dataset with data collected until a certain date. More recent data may provide different insights.
+> 2. The analysis relies on a specific dataset with data collected until a certain date. More recent data may provide different insights.
 
-The dataset was obtained through a text file, which might not include all the latest updates or changes on Twitter.
+> 3. The dataset was obtained through a text file, which might not include all the latest updates or changes on Twitter.
 
-The analysis may be affected by any inaccuracies or biases present in the original data source.
+> 4. The analysis may be affected by any inaccuracies or biases present in the original data source.
 
-The analysis does not take into account external factors that could impact engagement, such as current events or popular trends.
+> 5. The analysis does not take into account external factors that could impact engagement, such as current events or popular trends.
 
 ## Acknowledgments
-The original Twitter dataset used in this analysis was provided by Udacity. The dataset contains information about dog ratings and was gathered from the WeRateDogs Twitter account.
+> The original Twitter dataset used in this analysis was provided by Udacity. The dataset contains information about dog ratings and was gathered from the WeRateDogs Twitter account.
 
 ## About
-This data analysis report was created as part of a data analysis project for educational purposes. The analysis and code were written in Python, using Jupyter Notebook as the development environment. For any questions or inquiries, please contact the author.
+> This data analysis report was created as part of a data analysis project for educational purposes. The analysis and code were written in Python, using Jupyter Notebook as the development environment. For any questions or inquiries, please contact the author.
 
 Author: Terrance Kanyezi
